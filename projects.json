@@ -1,0 +1,20 @@
+[
+    {
+      "name": "On Da Rox",
+      "live": "https://germanokuerten.github.io/on-da-rox/",
+      "git": "https://github.com/germanokuerten/on-da-rox",
+      "image": ""
+    },
+    {
+      "name": "On Da Rox Manager",
+      "live": "https://ondarox-manager.herokuapp.com/",
+      "git": "https://github.com/germanokuerten/on-da-rox-manager",
+      "image": ""
+    },
+    {
+        "name": "Star Wars Spaceships",
+        "live": "",
+        "git": "https://github.com/germanokuerten/star-wars-api",
+        "image": ""
+      }
+  ]
